@@ -42,6 +42,7 @@ public class Menu {
             seleciona = teclado.nextInt();
             System.out.println("-------------------------------------------");
 
+
             /** Seleciona de acordo com a escolha do usuario */
             switch (seleciona) {
                 case 1: //Circulo
